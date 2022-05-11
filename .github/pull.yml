@@ -1,6 +1,6 @@
 version: "1"
 rules:
   - base: master
-    upstream: null:master
+    upstream: IBM:master
     mergeMethod: merge
     mergeUnstable: true
